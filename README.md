@@ -1,2 +1,3 @@
 # 골프웨어 COMME
-/github/pipenv/locked/python-version/:user/:repo
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
