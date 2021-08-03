@@ -1,6 +1,6 @@
 # 골프웨어 COMME
 
-# https://img.shields.io/static/v1?label=<healthinesses>&message=<골프웨어>&color=<yellowgreen>
+# https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
 Language : 
 <img src="https://img.shields.io/badge/Java-3766AB?style=flat&logo=Java&logoColor=#007396"/></a>
 
