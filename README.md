@@ -17,4 +17,4 @@ Back :
 <img src="https://img.shields.io/badge/MariaDB-3766AB?style=flat&logo=MariaDB&logoColor=#003545"/></a>
 <img src="https://img.shields.io/badge/Spring-3766AB?style=flat&logo=Spring&logoColor=#6DB33F"/></a>
 
-	/github/directory-file-count/:user/:repo
+	/github/directory-file-count/:Lee-seongBeom/:COMME
