@@ -1,11 +1,11 @@
 # 골프웨어 COMME
-Language
+Language : 
 <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=#007396"/></a>
 
-Front
+Front : 
 <img src="https://img.shields.io/badge/JS-3766AB?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/></a> 
 <img src="https://img.shields.io/badge/CSS3-3766AB?style=flat-square&logo=CSS3&logoColor=#1572B6"/></a>
 <img src="https://img.shields.io/badge/HTML5-3766AB?style=flat-square&logo=HTML5&logoColor=#E34F26"/></a>
 <img src="https://img.shields.io/badge/Bootstrap-3766AB?style=flat-square&logo=Bootstrap&logoColor=#7952B3"/></a>
 
-Back
+Back : 
