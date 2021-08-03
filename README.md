@@ -12,5 +12,5 @@ Front :
 <img src="https://img.shields.io/badge/Bootstrap-3766AB?style=flat-square&logo=Bootstrap&logoColor=#7952B3"/></a>
 
 Back : 
-<img src="https://img.shields.io/badge/MariaDB-3766AB?style=flat-square&logo=MariaDB&logoColor=#003545"/></a>
+<img src="https://img.shields.io/badge/MariaDB-3766AB?style=flat&logo=MariaDB&logoColor=#003545"/></a>
 <img src="https://img.shields.io/badge/Spring-3766AB?style=for-the-badge&logo=Spring&logoColor=#6DB33F"/></a>
