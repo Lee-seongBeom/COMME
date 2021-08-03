@@ -1,6 +1,6 @@
 # 골프웨어 COMME
 
-# https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
+# 
 Language : 
 <img src="https://img.shields.io/badge/Java-3766AB?style=flat&logo=Java&logoColor=#007396"/></a>
 
@@ -16,3 +16,5 @@ Front :
 Back : 
 <img src="https://img.shields.io/badge/MariaDB-3766AB?style=flat&logo=MariaDB&logoColor=#003545"/></a>
 <img src="https://img.shields.io/badge/Spring-3766AB?style=flat&logo=Spring&logoColor=#6DB33F"/></a>
+
+	/github/directory-file-count/:user/:repo
